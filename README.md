@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋  
 
-<!--
-**Alessio230801/Alessio230801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Alessio**, a passionate software developer with a diploma in IT from an **ITIS Informatics** school.  
+I love exploring technology and building projects that challenge my skills.  
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack:  
+- **Programming Languages:** Java, C++  
+- **Frameworks & Tools:** Spring Boot, JavaScript  
+- **Web Development:** HTML, CSS  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎮 Interests:  
+- Software development & new technologies  
+- Video games & tech innovations  
+
+### 📫 Connect with me:  
+- **LinkedIn:** [Check out my profile](https://www.linkedin.com/jobs/)  
+- **Email:** alessioporri@gmail.com  
+
+> *“Talk is cheap. Show me the code.”* – Linus Torvalds  
